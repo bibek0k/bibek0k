@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I'm currently pursuing BA.<br><br>💻 I'm planning to do MCA after graduation.<br><br>🍃 I'm currently learning full stack development on my own to build root in coputer science<br><br>☄️ A fun facrt about me is I am from arts background but I was always curious about science computers space related things.
+📖 I'm currently pursuing BA.<br><br>💻 I'm planning to do MCA after graduation.<br><br>🍃 I'm currently learning full stack development on my own to build root in coputer science<br><br>☄️ A fun fact about me is I am from arts background but I was always curious about science computers space related things.
 
 
 ## 🌐 Socials:
