@@ -6,6 +6,7 @@ Coming from a background in English literature, I made a deliberate transition i
 
 
 ## 🌐 Socials:
+[![Linkedin](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210220164014)](https://www.linkedin.com/in/bibek0k/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bibek.0k) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/BIBEK0K) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bibek0k) 
 
 # 💻 Tech Stack:
