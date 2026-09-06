@@ -3,7 +3,8 @@ Full-Stack Developer focused on building clean, performant web applications usin
 <br><br>
 Coming from a background in English literature, I made a deliberate transition into software engineering through my MCA, focusing heavily on hands-on development and algorithmic problem-solving. I prioritize writing maintainable code, building responsive interfaces, and architecting RESTful APIs.
 
-(https://bibekk-portfolio-bb.netlify.app/)
+## Portfolio:
+https://bibekk-portfolio-bb.netlify.app/
 
 
 
