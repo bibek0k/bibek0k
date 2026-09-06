@@ -1,5 +1,8 @@
 # About Me:
-📖 I'm currently pursuing BA.<br><br>💻 I'm planning to do MCA after graduation.<br><br>🍃 I'm currently learning full stack development on my own to build root in coputer science<br><br>☄️ A fun fact about me is I am from arts background but I was always curious about science computers space related things.
+Full-Stack Developer focused on building clean, performant web applications using the MERN stack (MongoDB, Express.js, React, Node.js). 
+<br><br>
+Coming from a background in English literature, I made a deliberate transition into software engineering through my MCA, focusing heavily on hands-on development and algorithmic problem-solving. I prioritize writing maintainable code, building responsive interfaces, and architecting RESTful APIs.
+
 
 
 ## 🌐 Socials:
