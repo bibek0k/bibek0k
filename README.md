@@ -1,5 +1,5 @@
 # About Me:
-Full-Stack Developer focused on building clean, performant web applications using the MERN stack (MongoDB, Express.js, React, Node.js). 
+Full-Stack Developer focused on building clean, performant web applications using the MERN stack. 
 <br><br>
 Coming from a background in English literature, I made a deliberate transition into software engineering through my MCA, focusing heavily on hands-on development and algorithmic problem-solving. I prioritize writing maintainable code, building responsive interfaces, and architecting RESTful APIs.
 
